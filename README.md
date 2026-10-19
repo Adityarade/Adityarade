@@ -30,7 +30,7 @@
 <!-- ============ ABOUT ============ -->
 ## About Me. 😊
 
-- 🎓 A CSE student at **YOUR COLLEGE**
+- 🎓 A Artificial Intelligence and Data Science  student at **DR.DY Patil Institute of Engineering Managemnet and Research,Akurdi,Pune**
 - 💻 Code → 🍔 Eat → 😴 Sleep → 🔁 Repeat
 - 👨‍💻 Front End Web Developer
 - 🎨 UI / UX designer
