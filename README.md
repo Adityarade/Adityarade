@@ -43,8 +43,6 @@ I build, evaluate and deploy **ML, NLP, Reinforcement Learning and Agentic AI** 
 
 <img src="./avatar.png" alt="Aditya Rade avatar" width="220" />
 
-**Aditya Rade**
-<sub>AI/ML Engineer & Data Scientist</sub>
 
 </td>
 </tr>
